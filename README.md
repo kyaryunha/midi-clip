@@ -42,17 +42,17 @@ Result of clip "A Town With An Ocean View" MIDI from 0 to 30 seconds and from 5 
 <table>
 <tr>
 <td></td>
-<td>Piano Roll</td>
-<td>Audio</td>
-</tr>
-<tr>
 <td>0s-30s</td>
-<td><img src="./example/ocean_0_30.png"/></td>
-<td>./example/ocean_0_30.wav</td>
+<td>5s-15s</td>
 </tr>
 <tr>
-<td>5s-15s</td>
-<td><img src="./example/ocean_5_15.png"/></td>
+<td>Piano Roll</td>
+<td><img src="./example/ocean_0_30.png" /></td>
+<td><img src="./example/ocean_5_15.png" /></td>
+</tr>
+<tr>
+<td>Audio</td>
+<td>./example/ocean_0_30.wav</td>
 <td>./example/ocean_5_15.wav</td>
 </tr>
 </table>
