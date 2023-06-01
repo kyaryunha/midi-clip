@@ -58,6 +58,6 @@ Result of clip "A Town With An Ocean View" MIDI from 0 to 30 seconds and from 5 
 </table>
 
 ** Used GarageBand to obtain piano roll images and Cubase to obtain audio.
-GarageBand, Cubase fills in the measure regardless of the actual end of track time in the MIDI, resulting in slightly longer audio. MIDI file's time clip is precisely.
+GarageBand and Cubase fill in the measure regardless of the actual end of track time in the MIDI, resulting in slightly longer audio. MIDI file's time clip is precisely.
 
 ** Data used for result was allowed by an anonymous artist.
