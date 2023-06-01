@@ -11,9 +11,10 @@ This library considers a lot of things for detailing midi clips: followings:
 
 - Supports both multi-track MIDI
 - Supports both tempo track & non-tempo track
-- Consider controllers that appear before start time or note_on that were not closed
+- Consider set_tempo, time_signature, controllers that appear before start time or note_on that were not closed
 - Consider empty space before the midi
 - All note_on and note_off pairs are validate. (Number of note_on and note_off is the same, and all note_on are closed by note_off)
+- ... 
 
 ### Usage
 ```
