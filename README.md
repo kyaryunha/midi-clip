@@ -48,13 +48,13 @@ Result of clip "A Town With An Ocean View" MIDI from 0 to 30 seconds and from 5 
 </tr>
 <tr>
 <td>Piano Roll</td>
-<td><img src="./example/ocean_0_30.png" /></td>
-<td><img src="./example/ocean_5_15.png" /></td>
+<td><img src="https://github.com/kyaryunha/midi-clip/blob/main/example/ocean_0_30.png" /></td>
+<td><img src="https://github.com/kyaryunha/midi-clip/blob/main/example/ocean_5_15.png" /></td>
 </tr>
 <tr>
 <td>Audio</td>
-<td>./example/ocean_0_30.wav</td>
-<td>./example/ocean_5_15.wav</td>
+<td>https://github.com/kyaryunha/midi-clip/blob/main/example/ocean_0_30.wav</td>
+<td>https://github.com/kyaryunha/midi-clip/blob/main/example/ocean_5_15.wav</td>
 </tr>
 </table>
 
